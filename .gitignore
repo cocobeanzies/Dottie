@@ -1,0 +1,13 @@
+__pycache__
+__dottie_env__
+*tmp
+dottie_env
+config.json
+auth.json
+CTE.py
+log.txt
+database
+backup
+cache
+saves
+Miza-VOICE/main.bat
